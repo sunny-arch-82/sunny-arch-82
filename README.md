@@ -17,7 +17,7 @@ I turn ambiguous data into structured, usable intelligence through end-to-end ML
 ## About Me
 I am a Master’s student in Computer Science at the University of Colorado Boulder (GPA 3.8), focused on designing production-ready ML systems. I enjoy bridging research ideas with real-world deployment by building models, data pipelines, and interfaces that make AI usable and transparent.
 
-Lately, I have been working on agentic and autonomous AI systems with a strong focus on fairness, accessibility, and interpretability. I believe increasing autonomy should improve clarity — not reduce it.
+Lately, I have been working on agentic and autonomous AI systems with a strong focus on fairness, accessibility, and interpretability. I am an engineer who believes AI should be understandable, debatable, and used ethically, not treated as a black box.
 
 ---
 
