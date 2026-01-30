@@ -41,19 +41,8 @@
 
 - 🌐 Portfolio: https://sunny-arch-82.github.io  
 - 💼 LinkedIn: https://www.linkedin.com  
-- 🐙 GitHub: https://github.com/sunny-arch-82  
-
----
-
-## 📌 Pinned Projects
-> (Use GitHub → Customize Profile → Pinned)
-
-- **RAAi** – Agentic research assistant that plans, searches, verifies, and writes  
-- **WeLearn** – AI-assisted course planning & structured learning paths  
-- **XploRAG** – Explainable RAG with source-linked answers  
-- **ClimateRiskAI** – Climate risk analytics with geospatial ML  
-- **GeoLifeCLEF** – Species distribution modeling with satellite + env data  
-
+- 🐙 GitHub: https://github.com/sunny-arch-82
+  
 ---
 
 ## 📈 Contributions
