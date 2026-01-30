@@ -40,7 +40,7 @@
 ## 🌐 Let’s Connect
 
 - 🌐 Portfolio: https://sunny-arch-82.github.io  
-- 💼 LinkedIn: https://www.linkedin.com  
+- 💼 LinkedIn: https://www.linkedin.com/in/shashidhar-reddy-kanaparthi-0081a4290
 - 🐙 GitHub: https://github.com/sunny-arch-82
   
 ---
