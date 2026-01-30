@@ -1,67 +1,60 @@
 <h1 align="center">Hi, I'm Shashidhar 👋</h1>
-<h3 align="center">
-Data Science & Applied AI | ML & Agentic Systems | MSCS @ CU Boulder
-</h3>
-
-<p align="center">
-I build reliable AI systems that work in messy, real-world settings.  
-I turn ambiguous data into structured, usable intelligence through end-to-end ML pipelines and user-facing AI that people can trust.
-</p>
-
-<p align="center">
-🌍 Geospatial ML • 🤖 Agentic AI • ⚖️ Explainable & Fair AI
-</p>
+<h3 align="center">I build reliable AI-ML systems that work in real-world settings.</h3>
 
 ---
 
-## About Me
-I am a Master’s student in Computer Science at the University of Colorado Boulder, focused on designing production-ready ML systems. I enjoy bridging research ideas with real-world deployment by building models, data pipelines, and interfaces that make AI usable and transparent.
+## 👋 About Me
 
-Lately, I have been working on agentic and autonomous AI systems with a strong focus on fairness, accessibility, and interpretability. My focus is on building systems that reason clearly and remain understandable as autonomy increases.
-
----
-
-## Experience
-**Data Science Intern – Trans Global Geomatics**  
-- Built real-time GPS analytics pipelines in Python using Random Forest and K-Means, improving deployment efficiency by **22%**  
-- Developed interactive geospatial dashboards with Plotly & Streamlit for **500+ users**, accelerating data-driven decisions  
-- Integrated ML-driven tracking features into production mobile applications
+- 🧠 I turn messy, ambiguous data into structured, usable intelligence  
+- 🔧 I design end-to-end ML systems, from data pipelines to user-facing apps  
+- 🤖 I’m exploring agentic & autonomous AI that can plan, reason, and verify  
+- ⚖️ I care deeply about fairness, transparency, and explainable AI  
+- 🌍 I enjoy applying ML to real-world domains like geospatial & climate data  
+- 💬 Always open to pro bono work, volunteering, and thoughtful conversations around AI and real-world impact  
 
 ---
 
-## Featured Projects
-| Project | What it Does | Tech |
-|--------|-------------|------|
-| **RAAi** | Fully agentic research assistant that plans, searches, verifies, and generates reports across 5 stages | LangGraph, Groq, Streamlit |
-| **WeLearn** | AI system that turns minimal input into structured learning paths with curated resources | FastAPI, LLMs |
-| **XploRAG** | Explainable RAG system linking every answer to source context | FAISS, FLAN-T5 |
+## 🛠 Tools & Technologies
+
+![Python](https://img.shields.io/badge/Python-000?style=for-the-badge&logo=python)
+![SQL](https://img.shields.io/badge/SQL-000?style=for-the-badge&logo=postgresql)
+![Git](https://img.shields.io/badge/Git-000?style=for-the-badge&logo=git)
+![Pandas](https://img.shields.io/badge/Pandas-000?style=for-the-badge&logo=pandas)
+![NumPy](https://img.shields.io/badge/NumPy-000?style=for-the-badge&logo=numpy)
+![scikit-learn](https://img.shields.io/badge/scikit--learn-000?style=for-the-badge&logo=scikit-learn)
+![TensorFlow](https://img.shields.io/badge/TensorFlow-000?style=for-the-badge&logo=tensorflow)
+![PyTorch](https://img.shields.io/badge/PyTorch-000?style=for-the-badge&logo=pytorch)
+![Keras](https://img.shields.io/badge/Keras-000?style=for-the-badge&logo=keras)
+![Matplotlib](https://img.shields.io/badge/Matplotlib-000?style=for-the-badge)
+![Plotly](https://img.shields.io/badge/Plotly-000?style=for-the-badge&logo=plotly)
+![Streamlit](https://img.shields.io/badge/Streamlit-000?style=for-the-badge&logo=streamlit)
+![Terraform](https://img.shields.io/badge/Terraform-000?style=for-the-badge&logo=terraform)
+![LangChain](https://img.shields.io/badge/LangChain-000?style=for-the-badge)
+![Docker](https://img.shields.io/badge/Docker-000?style=for-the-badge&logo=docker)
+![VS%20Code](https://img.shields.io/badge/VS%20Code-000?style=for-the-badge&logo=visualstudiocode)
+![GitHub](https://img.shields.io/badge/GitHub-000?style=for-the-badge&logo=github)
+![GCP](https://img.shields.io/badge/GCP-000?style=for-the-badge&logo=googlecloud)
 
 ---
 
-## Tech Stack
-**Languages:** Python, SQL, JavaScript  
-**ML/DL:** PyTorch, Scikit-learn, TensorFlow  
-**LLMs & Agents:** LangChain, LangGraph, FAISS, Hugging Face  
-**Geospatial:** Google Earth Engine, GeoPandas, PostGIS  
-**Cloud & DevOps:** GCP, BigQuery, Docker, Kubernetes, Terraform  
-**Apps:** FastAPI, Streamlit, React  
+## 🌐 Let’s Connect
 
----
-
-## GitHub Stats
-<p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=sunny-arch-82&show_icons=true&theme=tokyonight" />
-</p>
-
-<p align="center">
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=sunny-arch-82&theme=tokyonight" />
-</p>
-
----
-
-## Let’s Connect
 - 🌐 Portfolio: https://sunny-arch-82.github.io  
-- 💼 LinkedIn: https://www.linkedin.com/in/shashidhar-reddy-kanaparthi-0081a4290/  
-- 📫 Email: synnychinu@gmail.com  
+- 💼 LinkedIn: https://www.linkedin.com  
+- 🐙 GitHub: https://github.com/sunny-arch-82  
 
-> “AI should be understandable, debatable, and used ethically — not treated as a black box.”
+---
+
+## 📌 Pinned Projects
+> (Use GitHub → Customize Profile → Pinned)
+
+- **RAAi** – Agentic research assistant that plans, searches, verifies, and writes  
+- **WeLearn** – AI-assisted course planning & structured learning paths  
+- **XploRAG** – Explainable RAG with source-linked answers  
+- **ClimateRiskAI** – Climate risk analytics with geospatial ML  
+- **GeoLifeCLEF** – Species distribution modeling with satellite + env data  
+
+---
+
+## 📈 Contributions
+> Scroll down to see my activity, experiments, and learning in action 👇
