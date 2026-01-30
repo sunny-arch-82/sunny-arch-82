@@ -61,7 +61,7 @@ Lately, I have been working on agentic and autonomous AI systems with a strong f
 
 ## Let’s Connect
 - 🌐 Portfolio: https://sunny-arch-82.github.io  
-- 💼 LinkedIn: https://www.linkedin.com](https://www.linkedin.com/in/shashidhar-reddy-kanaparthi-0081a4290/  
+- 💼 LinkedIn: https://www.linkedin.com/in/shashidhar-reddy-kanaparthi-0081a4290/  
 - 📫 Email: synnychinu@gmail.com  
 
 > “AI should be understandable, debatable, and used ethically — not treated as a black box.”
