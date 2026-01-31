@@ -1,5 +1,4 @@
 <h1 align="center">Hi, I'm Shashidhar 👋</h1>
-<h3 align="center">I build reliable AI-ML systems that work in real-world settings.</h3>
 
 ---
 
