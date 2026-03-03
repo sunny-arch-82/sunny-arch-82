@@ -20,7 +20,7 @@
 ![Bash](https://img.shields.io/badge/Bash-000?style=for-the-badge&logo=gnubash)
 ![JavaScript](https://img.shields.io/badge/JavaScript-000?style=for-the-badge&logo=javascript)
 ![TypeScript](https://img.shields.io/badge/TypeScript-000?style=for-the-badge&logo=typescript)
-![AWS](https://img.shields.io/badge/Amazon%20AWS-000?style=for-the-badge&logo=amazonaws)
+![AWS](https://img.shields.io/badge/AWS-000?style=for-the-badge&logo=amazonaws)
 ![GCP](https://img.shields.io/badge/GCP-000?style=for-the-badge&logo=googlecloud)
 ![Docker](https://img.shields.io/badge/Docker-000?style=for-the-badge&logo=docker)
 ![Terraform](https://img.shields.io/badge/Terraform-000?style=for-the-badge&logo=terraform)
